@@ -1,4 +1,7 @@
-CV Classifier Project
+                            CV Classifier Project
+______________________________________________________________________________________
+
+
 
 Steps I followed:
 -  DE, DS, JD, MDE - This file names contain Original CV files download from google.
