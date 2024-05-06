@@ -7,4 +7,5 @@ Steps I followed:
 -  Classification models python file will show you that What are the models i'm used for model building.
 
   
-I'm sharing the accuracy of the models, I built : 
+I'm sharing the accuracy of the models, I built : Accuracy file
+
