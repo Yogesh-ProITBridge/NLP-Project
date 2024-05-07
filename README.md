@@ -8,5 +8,5 @@ Steps I followed:
 - The resume classifier Python program will demonstrate how to alter the pdf to docx conversion and extract the text from the doxc file and save it as a csv file.
 - The classification models Python file will show you what models I use for model development.
  
-I'm sharing the accuracy of the models, I built : Accuracy.docx file
+I'm sharing the accuracy of the models, I built : Accuracy.xlsx file
 
