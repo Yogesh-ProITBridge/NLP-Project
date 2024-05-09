@@ -18,20 +18,23 @@ Performance Metrics:
 
 -  Accuracy: Accuracy measures the proportion of correctly classified instances out of the total instances. In this context, an accuracy of 0.96 means that 96% of the resumes were correctly classified into their respective categories by the model.
   
--  Precision: Precision is the ratio of correctly predicted positive observations to the total predicted positives. It measures the accuracy of positive predictions. In this case:
-For Class 0: Precision of 1.00 means that all resumes predicted as Class 0 were indeed Class 0.
-For Class 1: Precision of 0.90 indicates that 90% of the resumes predicted as Class 1 were actually Class 1.
-For Class 2: Precision of 0.96 suggests that 96% of the resumes predicted as Class 2 were actually Class 2.
-For Class 3: Precision of 0.97 means that 97% of the resumes predicted as Class 3 were actually Class 3.
+Precision: Precision is the ratio of correctly predicted positive observations to the total predicted positives. It measures the accuracy of positive predictions.
 
--  Recall: Recall, also known as sensitivity, is the ratio of correctly predicted positive observations to the all observations in actual class. It measures the ability of the classifier to find all positive instances. In this case:
-For Class 0: Recall of 0.95 means that the model identified 95% of the actual Class 0 resumes.
-For Class 1: Recall of 0.95 suggests that the model identified 95% of the actual Class 1 resumes.
-For Class 2: Recall of 0.96 indicates that the model identified 96% of the actual Class 2 resumes.
-For Class 3: Recall of 0.97 means that the model identified 97% of the actual Class 3 resumes.
+-  For Class 0: Precision of 1.00 means that all resumes predicted as Class 0 were indeed Class 0.
+-  For Class 1: Precision of 0.90 indicates that 90% of the resumes predicted as Class 1 were actually Class 1.
+-  For Class 2: Precision of 0.96 suggests that 96% of the resumes predicted as Class 2 were actually Class 2.
+-  For Class 3: Precision of 0.97 means that 97% of the resumes predicted as Class 3 were actually Class 3.
 
--  F1-score: The F1-score is the harmonic mean of precision and recall. It provides a balance between precision and recall. In this case:
-For Class 0: F1-score of 0.97 represents a balanced performance between precision and recall for Class 0.
-For Class 1: F1-score of 0.93 suggests a slightly lower balance between precision and recall for Class 1.
-For Class 2: F1-score of 0.96 indicates a balanced performance between precision and recall for Class 2.
-For Class 3: F1-score of 0.97 represents a balanced performance between precision and recall for Class 3.
+Recall: Recall, also known as sensitivity, is the ratio of correctly predicted positive observations to the all observations in actual class. It measures the ability of the classifier to find all positive instances.
+
+-  For Class 0: Recall of 0.95 means that the model identified 95% of the actual Class 0 resumes.
+-  For Class 1: Recall of 0.95 suggests that the model identified 95% of the actual Class 1 resumes.
+-  For Class 2: Recall of 0.96 indicates that the model identified 96% of the actual Class 2 resumes.
+-  For Class 3: Recall of 0.97 means that the model identified 97% of the actual Class 3 resumes.
+
+F1-score: The F1-score is the harmonic mean of precision and recall. It provides a balance between precision and recall. 
+
+- For Class 0: F1-score of 0.97 represents a balanced performance between precision and recall for Class 0.
+- For Class 1: F1-score of 0.93 suggests a slightly lower balance between precision and recall for Class 1.
+- For Class 2: F1-score of 0.96 indicates a balanced performance between precision and recall for Class 2.
+- For Class 3: F1-score of 0.97 represents a balanced performance between precision and recall for Class 3.
