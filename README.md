@@ -47,4 +47,6 @@ Description:
 The Resume Parser App is a tool for extracting important information from uploaded PDF resumes. This application uses spaCy, a powerful natural language processing library, 
 to identify and obtain crucial details from PDF resumes, including name, contact number, email address, talents, and education.
 
+I added the source code (main.py) and requirements.txt file.
+
 
