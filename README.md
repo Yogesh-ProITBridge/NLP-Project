@@ -38,3 +38,13 @@ F1-score: The F1-score is the harmonic mean of precision and recall. It provides
 - For Class 1: F1-score of 0.93 suggests a slightly lower balance between precision and recall for Class 1.
 - For Class 2: F1-score of 0.96 indicates a balanced performance between precision and recall for Class 2.
 - For Class 3: F1-score of 0.97 represents a balanced performance between precision and recall for Class 3.
+
+--------------------------------------------------------------------------------------------------------------------------------
+RESUME PARSER APP 
+
+Description:
+
+The Resume Parser App is a tool for extracting important information from uploaded PDF resumes. This application uses spaCy, a powerful natural language processing library, 
+to identify and obtain crucial details from PDF resumes, including name, contact number, email address, talents, and education.
+
+
